@@ -1,0 +1,18 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+#logo-container {
+    position: absolute;
+    top: 10px;  /* Ajuste a margem superior conforme necessário */
+    left: 10px; /* Ajuste a margem esquerda conforme necessário */
+    width: 100px; /* Ajuste o tamanho do logo conforme necessário */
+}
+
+#logo-container img {
+    width: 100%;
+    height: auto;
+}
